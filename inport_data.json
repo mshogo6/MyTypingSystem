@@ -1,0 +1,252 @@
+[
+    {
+    "view_str": "こんにちは",
+    "cmp_str": "konnitiwa",
+    "val": 1
+    },
+    {
+    "view_str": "タイピング",
+    "cmp_str": "taipingu",
+    "val": 1
+    },
+    {
+    "view_str": "練習",
+    "cmp_str": "renshuu",
+    "val": 1
+    },
+    {
+    "view_str": "単語",
+    "cmp_str": "tango",
+    "val": 1
+    },
+    {
+    "view_str": "キーボード",
+    "cmp_str": "ki-bo-do",
+    "val": 1
+    },
+    {
+    "view_str": "速度",
+    "cmp_str": "sokudo",
+    "val": 1
+    },
+    {
+    "view_str": "正確さ",
+    "cmp_str": "seikakusa",
+    "val": 1
+    },
+    {
+    "view_str": "継続",
+    "cmp_str": "keizoku",
+    "val": 1
+    },
+    {
+    "view_str": "スキル",
+    "cmp_str": "sukiru",
+    "val": 1
+    },
+    {
+    "view_str": "改善",
+    "cmp_str": "kaizen",
+    "val": 1
+    },
+    {
+    "view_str": "効果的",
+    "cmp_str": "koukateki",
+    "val": 1
+    },
+    {
+    "view_str": "精度",
+    "cmp_str": "seido",
+    "val": 1
+    },
+    {
+    "view_str": "指紋",
+    "cmp_str": "simonn",
+    "val": 1
+    },
+    {
+    "view_str": "コンピューター",
+    "cmp_str": "konpyu-ta-",
+    "val": 1
+    },
+    {
+    "view_str": "ソフトウェア",
+    "cmp_str": "sofutowea",
+    "val": 1
+    },
+    {
+    "view_str": "ハードウェア",
+    "cmp_str": "ha-dowea",
+    "val": 1
+    },
+    {
+    "view_str": "キーストローク",
+    "cmp_str": "ki-sutoro-ku",
+    "val": 1
+    },
+    {
+    "view_str": "レッスン",
+    "cmp_str": "ressun",
+    "val": 1
+    },
+    {
+    "view_str": "タイプライター",
+    "cmp_str": "taipuraita-",
+    "val": 1
+    },
+    {
+    "view_str": "タイプミス",
+    "cmp_str": "taipumisu",
+    "val": 1
+    },
+    {
+    "view_str": "文字",
+    "cmp_str": "moji",
+    "val": 1
+    },
+    {
+    "view_str": "誤字",
+    "cmp_str": "goji",
+    "val": 1
+    },
+    {
+    "view_str": "記号",
+    "cmp_str": "kigou",
+    "val": 1
+    },
+    {
+    "view_str": "数字",
+    "cmp_str": "suuji",
+    "val": 1
+    },
+    {
+    "view_str": "スペースキー",
+    "cmp_str": "supe-suki-",
+    "val": 1
+    },
+    {
+    "view_str": "バックスペース",
+    "cmp_str": "bakkusupe-su",
+    "val": 1
+    },
+    {
+    "view_str": "エンターキー",
+    "cmp_str": "enta-ki-",
+    "val": 1
+    },
+    {
+    "view_str": "シフトキー",
+    "cmp_str": "shifutoki-",
+    "val": 1
+    },
+    {
+    "view_str": "キャピタル",
+    "cmp_str": "kyapitaru",
+    "val": 1
+    },
+    {
+    "view_str": "エクササイズ",
+    "cmp_str": "ekusasaizu",
+    "val": 1
+    },
+    {
+    "view_str": "テクニック",
+    "cmp_str": "tekunikku",
+    "val": 1
+    },
+    {
+    "view_str": "レポート",
+    "cmp_str": "repo-to",
+    "val": 1
+    },
+    {
+    "view_str": "ドキュメント",
+    "cmp_str": "dokyumento",
+    "val": 1
+    },
+    {
+    "view_str": "プロジェクト",
+    "cmp_str": "purojekuto",
+    "val": 1
+    },
+    {
+    "view_str": "テスト",
+    "cmp_str": "tesuto",
+    "val": 1
+    },
+    {
+    "view_str": "インプット",
+    "cmp_str": "inputto",
+    "val": 1
+    },
+    {
+    "view_str": "アウトプット",
+    "cmp_str": "autoputto",
+    "val": 1
+    },
+    {
+    "view_str": "クリップボード",
+    "cmp_str": "kurippubo-do",
+    "val": 1
+    },
+    {
+    "view_str": "ショートカット",
+    "cmp_str": "sho-tokatto",
+    "val": 1
+    },
+    {
+    "view_str": "マウス",
+    "cmp_str": "mausu",
+    "val": 1
+    },
+    {
+    "view_str": "クリック",
+    "cmp_str": "kurikku",
+    "val": 1
+    },
+    {
+    "view_str": "ドラッグ",
+    "cmp_str": "doraggu",
+    "val": 1
+    },
+    {
+    "view_str": "スクロール",
+    "cmp_str": "sukuro-ru",
+    "val": 1
+    },
+    {
+    "view_str": "メモ",
+    "cmp_str": "memo",
+    "val": 1
+    },
+    {
+    "view_str": "パスワード",
+    "cmp_str": "pasuwa-do",
+    "val": 1
+    },
+    {
+    "view_str": "ユーザー名",
+    "cmp_str": "yu-za-mei",
+    "val": 1
+    },
+    {
+    "view_str": "フォーム",
+    "cmp_str": "fo-mu",
+    "val": 1
+    },
+    {
+    "view_str": "ブラウザ",
+    "cmp_str": "burauza",
+    "val": 1
+    },
+    {
+    "view_str": "インターネット",
+    "cmp_str": "inta-netto",
+    "val":1
+    },
+    {
+    "view_str": "ネットワーク",
+    "cmp_str": "nettowa-ku",
+    "val": 1
+    }
+]
