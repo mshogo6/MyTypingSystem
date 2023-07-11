@@ -1,5 +1,5 @@
 // 入力データのインポート
-import data from "./inport_data.json" assert {type: "json"};
+import data from "./import_data.json" assert {type: "json"};
 
 
 // 繰り返し回数の設定
